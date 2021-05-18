@@ -1,0 +1,14 @@
+The password is: Brewster
+Total time taken on GPU: 77674.062500
+The password is: Brewster
+Total time taken on GPU: 76900.703125
+The password is: Brewster
+Total time taken on GPU: 74941.906250
+The password is: Brewster
+Total time taken on GPU: 74927.210938
+The password is: Brewster
+Total time taken on GPU: 74842.453125
+The password is: Brewster
+Total time taken on GPU: 72840.875000
+The password is: Brewster
+Total time taken on GPU: 71783.851562

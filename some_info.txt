@@ -1,0 +1,28 @@
+PMKID
+
+ESSID: The Roost2.4GHz
+Passphrase: Brewster
+BSSID: 36:96:01:44:4d:e9
+Client MAC: 9C:4E:36:B5:43:F8
+PMK: 7862e2af7288793f832cef32e875cba55e8df033360160837809ed7ba5712bf0
+PMKID string: 1a24315178046953dafed3d6e6295bb7*369601444de9*9c4e36b543f8*54686520526f6f7374322e3447487a
+Just the PMKID: 1a24315178046953dafed3d6e6295bb7
+
+
+PBKDF2 Generator: https://asecuritysite.com/encryption/PBKDF2y
+HMAC-SHA1 Generator: https://www.freeformatter.com/hmac-generator.html#ad-output
+SHA1 Generator: https://passwordsgenerator.net/sha1-hash-generator/
+
+Useful Sources:
+
+"Overview of the entire attack, as it is described by HASHCAT"
+https://www.ssl247.nl/over-ons/blog/new-wpa-wpa2-network-attack#.YI8TFCVOmA2
+
+"Where I got my SHA1 hash implementation from"
+https://github.com/mochimodev/cuda-hashing-algos
+
+"Wikipedia for PBKDF2"
+https://en.m.wikipedia.org/wiki/PBKDF2
+
+"Wikipedia for HMAC"
+https://en.m.wikipedia.org/wiki/HMAC
